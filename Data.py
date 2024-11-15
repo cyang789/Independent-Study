@@ -2,7 +2,11 @@
 import json
 import os
 
-# hello :)
+# run pip install requests on ur terminal first i think, it did something
+# not quite sure what
+
+import requests
+
 
 # Define the search URL and parameters
 api_url = 'https://openi.nlm.nih.gov/api/search'
