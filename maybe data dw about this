@@ -6,11 +6,11 @@ import requests  # Add this line to import the requests library
 # Define the search URL and parameters
 api_url = 'https://openi.nlm.nih.gov/api/search'
 params = {
-    'query': 'chest xray',
+    'query': 'lungs, copd',
     'coll': 'mpx',
-    'it': 'x,xg',
+    'it': 'x,p,m,c',
     'subSetId': 'all',
-    'size': 10  # Number of images to retrieve
+    'size': 5  # Number of images to retrieve
 }
 
 # Make the request to Open-i API
@@ -42,7 +42,7 @@ if response.status_code == 200:
             print(f"Failed to download image {i+1}")
 
     # Save the metadata to a JSON file
-    with open('image_metadata.json', 'w') as json_file:
+    with open('image_metadata_temp.json', 'w') as json_file:
         json.dump(data, json_file, indent=4)
 
     print("Images and metadata downloaded successfully!")

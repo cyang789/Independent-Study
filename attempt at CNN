@@ -1,0 +1,63 @@
+import os
+import numpy as np
+from tensorflow.keras.applications import VGG16
+from tensorflow.keras.applications.vgg16 import preprocess_input
+from tensorflow.keras.preprocessing.image import load_img, img_to_array
+from sklearn.metrics.pairwise import cosine_similarity
+# run this too: pip install tensorflow numpy scikit-learn
+
+
+# Define image directory
+image_dir = "images"
+
+# Load pre-trained CNN model (VGG16) for feature extraction
+model = VGG16(weights="imagenet", include_top=False)
+
+def preprocess_image(image_path, target_size=(224, 224)):
+    """
+    Preprocess an image for the CNN model.
+    """
+    img = load_img(image_path, target_size=target_size)
+    img_array = img_to_array(img)
+    img_array = np.expand_dims(img_array, axis=0)
+    return preprocess_input(img_array)
+
+def extract_features(image_path):
+    """
+    Extract feature embeddings from an image using the CNN model.
+    """
+    preprocessed_image = preprocess_image(image_path)
+    features = model.predict(preprocessed_image)
+    return features.flatten()
+
+# Load and process all images
+image_features = {}
+image_files = sorted(os.listdir(image_dir))
+
+for i, image_file in enumerate(image_files):
+    image_path = os.path.join(image_dir, image_file)
+    features = extract_features(image_path)
+    image_features[image_file] = features
+    print(f"Extracted features for {image_file}")
+
+# Compare all images to image_5.jpg
+target_image = "image_5.jpg"
+if target_image not in image_features:
+    print(f"{target_image} not found in image directory.")
+else:
+    target_features = image_features[target_image]
+    similarities = {}
+
+    for image_file, features in image_features.items():
+        if image_file != target_image:
+            sim = cosine_similarity(
+                [target_features], [features]
+            )[0][0]  # Compute cosine similarity
+            similarities[image_file] = sim
+
+    # Sort images by similarity
+    sorted_similarities = sorted(similarities.items(), key=lambda x: x[1], reverse=True)
+
+    print(f"Images similar to {target_image}:")
+    for image_file, similarity in sorted_similarities:
+        print(f"{image_file}: {similarity:.4f}")

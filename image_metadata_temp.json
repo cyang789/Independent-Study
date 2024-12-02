@@ -1,0 +1,379 @@
+{
+    "min": 1,
+    "max": 10,
+    "count": 10,
+    "total": 23,
+    "approximage": "false",
+    "list": [
+        {
+            "uid": "MPX2728",
+            "pmcid": "2728",
+            "docSource": "MPX",
+            "articleType": "topic",
+            "title": "COPD with bullous emphysema",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/topic?id24ed6013-0b36-4beb-abb6-c2eea4ab3a23",
+            "journal_title": "MedPix Images",
+            "journal_abbr": "MedPix",
+            "medpixArticleId": "8f283cef-aa34-470f-a841-bfc0de517144",
+            "medpixFigureId": "24ed6013-0b36-4beb-abb6-c2eea4ab3a23",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/topic?id=24ed6013-0b36-4beb-abb6-c2eea4ab3a23",
+            "journal_date": {
+                "day": "3",
+                "month": "3",
+                "year": "2001"
+            },
+            "authors": "Critchley EC",
+            "affiliate": "Uniformed Services University",
+            "MeSH": {
+                "minor": [],
+                "major": []
+            },
+            "Problems": "",
+            "image": {
+                "id": "MPX2728_synpic3270",
+                "caption": "Emphysema"
+            },
+            "imgThumb": "/imgs/100/322/2728/MPX2728_synpic3270.png",
+            "imgLarge": "/imgs/512/322/2728/MPX2728_synpic3270.png",
+            "imgThumbLarge": "/imgs/137/322/2728/MPX2728_synpic3270.png",
+            "imgGrid150": "/imgs/150/322/2728/MPX2728_synpic3270.png",
+            "similarInCollection": "/search?simCollection=MPX2728_synpic3270&query=lungs%2C+copd&req=3",
+            "getArticleFigures": "/search?uid=MPX2728&req=5",
+            "detailedQueryURL": "/search?img=MPX2728_synpic3270&query=lungs%2C+copd&it=x&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX2728_synpic3270&query=lungs%2C+copd&it=x&coll=mpx&req=2"
+        },
+        {
+            "uid": "MPX2728",
+            "pmcid": "2728",
+            "docSource": "MPX",
+            "articleType": "topic",
+            "title": "COPD with bullous emphysema",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/topic?id24ed6013-0b36-4beb-abb6-c2eea4ab3a23",
+            "journal_title": "MedPix Images",
+            "journal_abbr": "MedPix",
+            "medpixArticleId": "8f283cef-aa34-470f-a841-bfc0de517144",
+            "medpixFigureId": "b3c47695-b4eb-4f30-b514-d5f1d53828ac",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/topic?id=b3c47695-b4eb-4f30-b514-d5f1d53828ac",
+            "journal_date": {
+                "day": "3",
+                "month": "3",
+                "year": "2001"
+            },
+            "authors": "Critchley EC",
+            "affiliate": "Uniformed Services University",
+            "MeSH": {
+                "minor": [],
+                "major": []
+            },
+            "Problems": "",
+            "image": {
+                "id": "MPX2728_synpic3271",
+                "caption": "Emphysema"
+            },
+            "imgThumb": "/imgs/100/322/2728/MPX2728_synpic3271.png",
+            "imgLarge": "/imgs/512/322/2728/MPX2728_synpic3271.png",
+            "imgThumbLarge": "/imgs/137/322/2728/MPX2728_synpic3271.png",
+            "imgGrid150": "/imgs/150/322/2728/MPX2728_synpic3271.png",
+            "similarInCollection": "/search?simCollection=MPX2728_synpic3271&query=lungs%2C+copd&req=3",
+            "getArticleFigures": "/search?uid=MPX2728&req=5",
+            "detailedQueryURL": "/search?img=MPX2728_synpic3271&query=lungs%2C+copd&it=x&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX2728_synpic3271&query=lungs%2C+copd&it=x&coll=mpx&req=2"
+        },
+        {
+            "uid": "MPX1031",
+            "pmcid": "1031",
+            "docSource": "MPX",
+            "articleType": "encounter",
+            "title": "COPD and chronic ILD secondary to leukemia with acute PAP",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=032cca28-b206-4f67-b1e1-0c1f24588dcf",
+            "journal_title": "MedPix Images",
+            "journal_abbr": "MedPix",
+            "medpixArticleId": "032cca28-b206-4f67-b1e1-0c1f24588dcf",
+            "medpixFigureId": "e0b482b4-8afb-4225-98ff-5e6b16088ef9",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=e0b482b4-8afb-4225-98ff-5e6b16088ef9",
+            "journal_date": {
+                "day": "",
+                "month": "",
+                "year": ""
+            },
+            "authors": "Decker CWD",
+            "affiliate": "Madigan Army Medical Center",
+            "MeSH": {
+                "minor": [],
+                "major": []
+            },
+            "Problems": "",
+            "image": {
+                "id": "MPX1031_synpic20032",
+                "caption": "PA chest shows predominately basilar linear opacities with some ares of consolidation"
+            },
+            "imgThumb": "/imgs/100/229/1031/MPX1031_synpic20032.png",
+            "imgLarge": "/imgs/512/229/1031/MPX1031_synpic20032.png",
+            "imgThumbLarge": "/imgs/137/229/1031/MPX1031_synpic20032.png",
+            "imgGrid150": "/imgs/150/229/1031/MPX1031_synpic20032.png",
+            "similarInCollection": "/search?simCollection=MPX1031_synpic20032&query=lungs%2C+copd&req=3",
+            "getArticleFigures": "/search?uid=MPX1031&req=5",
+            "detailedQueryURL": "/search?img=MPX1031_synpic20032&query=lungs%2C+copd&it=x&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX1031_synpic20032&query=lungs%2C+copd&it=x&coll=mpx&req=2"
+        },
+        {
+            "uid": "MPX2228",
+            "pmcid": "2228",
+            "docSource": "MPX",
+            "articleType": "encounter",
+            "title": "Pulmonary Embolism",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=bd800637-d7a2-4e06-a473-205938856397",
+            "journal_title": "MedPix Images",
+            "journal_abbr": "MedPix",
+            "medpixArticleId": "bd800637-d7a2-4e06-a473-205938856397",
+            "medpixFigureId": "79255ee3-52fb-48cd-8702-811392bea6a8",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=79255ee3-52fb-48cd-8702-811392bea6a8",
+            "journal_date": {
+                "day": "18",
+                "month": "9",
+                "year": "2006"
+            },
+            "authors": "USU Teaching File MUTF",
+            "affiliate": "Uniformed Services University",
+            "MeSH": {
+                "minor": [],
+                "major": []
+            },
+            "Problems": "",
+            "image": {
+                "id": "MPX2228_synpic15169",
+                "caption": "CXR- bilateral small pleural effusions,no Westermark\u2019s sign or Hampton\u2019s hump"
+            },
+            "imgThumb": "/imgs/100/223/2228/MPX2228_synpic15169.png",
+            "imgLarge": "/imgs/512/223/2228/MPX2228_synpic15169.png",
+            "imgThumbLarge": "/imgs/137/223/2228/MPX2228_synpic15169.png",
+            "imgGrid150": "/imgs/150/223/2228/MPX2228_synpic15169.png",
+            "similarInCollection": "/search?simCollection=MPX2228_synpic15169&query=lungs%2C+copd&req=3",
+            "getArticleFigures": "/search?uid=MPX2228&req=5",
+            "detailedQueryURL": "/search?img=MPX2228_synpic15169&query=lungs%2C+copd&it=x&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX2228_synpic15169&query=lungs%2C+copd&it=x&coll=mpx&req=2"
+        },
+        {
+            "uid": "MPX2228",
+            "pmcid": "2228",
+            "docSource": "MPX",
+            "articleType": "encounter",
+            "title": "Pulmonary Embolism",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=bd800637-d7a2-4e06-a473-205938856397",
+            "journal_title": "MedPix Images",
+            "journal_abbr": "MedPix",
+            "medpixArticleId": "bd800637-d7a2-4e06-a473-205938856397",
+            "medpixFigureId": "1435b874-af8c-4525-b62b-c229525e29e2",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=1435b874-af8c-4525-b62b-c229525e29e2",
+            "journal_date": {
+                "day": "18",
+                "month": "9",
+                "year": "2006"
+            },
+            "authors": "USU Teaching File MUTF",
+            "affiliate": "Uniformed Services University",
+            "MeSH": {
+                "minor": [],
+                "major": []
+            },
+            "Problems": "",
+            "image": {
+                "id": "MPX2228_synpic15170",
+                "caption": "CXR- bilateral small pleural effusions,no Westermark\u2019s sign or Hampton\u2019s hump"
+            },
+            "imgThumb": "/imgs/100/223/2228/MPX2228_synpic15170.png",
+            "imgLarge": "/imgs/512/223/2228/MPX2228_synpic15170.png",
+            "imgThumbLarge": "/imgs/137/223/2228/MPX2228_synpic15170.png",
+            "imgGrid150": "/imgs/150/223/2228/MPX2228_synpic15170.png",
+            "similarInCollection": "/search?simCollection=MPX2228_synpic15170&query=lungs%2C+copd&req=3",
+            "getArticleFigures": "/search?uid=MPX2228&req=5",
+            "detailedQueryURL": "/search?img=MPX2228_synpic15170&query=lungs%2C+copd&it=x&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX2228_synpic15170&query=lungs%2C+copd&it=x&coll=mpx&req=2"
+        },
+        {
+            "uid": "MPX2228",
+            "pmcid": "2228",
+            "docSource": "MPX",
+            "articleType": "encounter",
+            "title": "Pulmonary Embolism",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=bd800637-d7a2-4e06-a473-205938856397",
+            "journal_title": "MedPix Images",
+            "journal_abbr": "MedPix",
+            "medpixArticleId": "bd800637-d7a2-4e06-a473-205938856397",
+            "medpixFigureId": "bb933e81-a7f3-4b14-b79c-fb3779897a36",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=bb933e81-a7f3-4b14-b79c-fb3779897a36",
+            "journal_date": {
+                "day": "18",
+                "month": "9",
+                "year": "2006"
+            },
+            "authors": "USU Teaching File MUTF",
+            "affiliate": "Uniformed Services University",
+            "MeSH": {
+                "minor": [],
+                "major": []
+            },
+            "Problems": "",
+            "image": {
+                "id": "MPX2228_synpic15171",
+                "caption": "CXR- bilateral small pleural effusions,no Westermark\u2019s sign or Hampton\u2019s hump"
+            },
+            "imgThumb": "/imgs/100/223/2228/MPX2228_synpic15171.png",
+            "imgLarge": "/imgs/512/223/2228/MPX2228_synpic15171.png",
+            "imgThumbLarge": "/imgs/137/223/2228/MPX2228_synpic15171.png",
+            "imgGrid150": "/imgs/150/223/2228/MPX2228_synpic15171.png",
+            "similarInCollection": "/search?simCollection=MPX2228_synpic15171&query=lungs%2C+copd&req=3",
+            "getArticleFigures": "/search?uid=MPX2228&req=5",
+            "detailedQueryURL": "/search?img=MPX2228_synpic15171&query=lungs%2C+copd&it=x&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX2228_synpic15171&query=lungs%2C+copd&it=x&coll=mpx&req=2"
+        },
+        {
+            "uid": "MPX2228",
+            "pmcid": "2228",
+            "docSource": "MPX",
+            "articleType": "encounter",
+            "title": "Pulmonary Embolism",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=bd800637-d7a2-4e06-a473-205938856397",
+            "journal_title": "MedPix Images",
+            "journal_abbr": "MedPix",
+            "medpixArticleId": "bd800637-d7a2-4e06-a473-205938856397",
+            "medpixFigureId": "9e3fb818-782f-4d02-8d50-4e0e491bd054",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=9e3fb818-782f-4d02-8d50-4e0e491bd054",
+            "journal_date": {
+                "day": "18",
+                "month": "9",
+                "year": "2006"
+            },
+            "authors": "USU Teaching File MUTF",
+            "affiliate": "Uniformed Services University",
+            "MeSH": {
+                "minor": [],
+                "major": []
+            },
+            "Problems": "",
+            "image": {
+                "id": "MPX2228_synpic15175",
+                "caption": "Trapease filter in the IVC"
+            },
+            "imgThumb": "/imgs/100/223/2228/MPX2228_synpic15175.png",
+            "imgLarge": "/imgs/512/223/2228/MPX2228_synpic15175.png",
+            "imgThumbLarge": "/imgs/137/223/2228/MPX2228_synpic15175.png",
+            "imgGrid150": "/imgs/150/223/2228/MPX2228_synpic15175.png",
+            "similarInCollection": "/search?simCollection=MPX2228_synpic15175&query=lungs%2C+copd&req=3",
+            "getArticleFigures": "/search?uid=MPX2228&req=5",
+            "detailedQueryURL": "/search?img=MPX2228_synpic15175&query=lungs%2C+copd&it=x&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX2228_synpic15175&query=lungs%2C+copd&it=x&coll=mpx&req=2"
+        },
+        {
+            "uid": "MPX2308",
+            "pmcid": "2308",
+            "docSource": "MPX",
+            "articleType": "encounter",
+            "title": "Non-small cell (squamous cell) carcinoma of the lung (RLL); T3N2M0, corresponding to stage III-A",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=caec1d58-e861-4a62-9c81-05d5fde487c8",
+            "journal_title": "MedPix Images",
+            "journal_abbr": "MedPix",
+            "medpixArticleId": "caec1d58-e861-4a62-9c81-05d5fde487c8",
+            "medpixFigureId": "f1a435ba-4a19-4477-83a5-9c6363ac0add",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=f1a435ba-4a19-4477-83a5-9c6363ac0add",
+            "journal_date": {
+                "day": "",
+                "month": "",
+                "year": ""
+            },
+            "authors": "Patterson RAP",
+            "affiliate": "Uniformed Services University",
+            "MeSH": {
+                "minor": [],
+                "major": []
+            },
+            "Problems": "",
+            "image": {
+                "id": "MPX2308_synpic24660",
+                "caption": "CXR \u2013 increased opacity over lower T-spine on the right side."
+            },
+            "imgThumb": "/imgs/100/303/2308/MPX2308_synpic24660.png",
+            "imgLarge": "/imgs/512/303/2308/MPX2308_synpic24660.png",
+            "imgThumbLarge": "/imgs/137/303/2308/MPX2308_synpic24660.png",
+            "imgGrid150": "/imgs/150/303/2308/MPX2308_synpic24660.png",
+            "similarInCollection": "/search?simCollection=MPX2308_synpic24660&query=lungs%2C+copd&req=3",
+            "getArticleFigures": "/search?uid=MPX2308&req=5",
+            "detailedQueryURL": "/search?img=MPX2308_synpic24660&query=lungs%2C+copd&it=x&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX2308_synpic24660&query=lungs%2C+copd&it=x&coll=mpx&req=2"
+        },
+        {
+            "uid": "MPX2308",
+            "pmcid": "2308",
+            "docSource": "MPX",
+            "articleType": "encounter",
+            "title": "Non-small cell (squamous cell) carcinoma of the lung (RLL); T3N2M0, corresponding to stage III-A",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=caec1d58-e861-4a62-9c81-05d5fde487c8",
+            "journal_title": "MedPix Images",
+            "journal_abbr": "MedPix",
+            "medpixArticleId": "caec1d58-e861-4a62-9c81-05d5fde487c8",
+            "medpixFigureId": "bed60cd5-1391-4c5f-b71e-baa2eed6feea",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=bed60cd5-1391-4c5f-b71e-baa2eed6feea",
+            "journal_date": {
+                "day": "",
+                "month": "",
+                "year": ""
+            },
+            "authors": "Patterson RAP",
+            "affiliate": "Uniformed Services University",
+            "MeSH": {
+                "minor": [],
+                "major": []
+            },
+            "Problems": "",
+            "image": {
+                "id": "MPX2308_synpic24661",
+                "caption": "CXR \u2013 increased opacity over lower T-spine on lateral film.  Prosthetic mitral valve also visible."
+            },
+            "imgThumb": "/imgs/100/303/2308/MPX2308_synpic24661.png",
+            "imgLarge": "/imgs/512/303/2308/MPX2308_synpic24661.png",
+            "imgThumbLarge": "/imgs/137/303/2308/MPX2308_synpic24661.png",
+            "imgGrid150": "/imgs/150/303/2308/MPX2308_synpic24661.png",
+            "similarInCollection": "/search?simCollection=MPX2308_synpic24661&query=lungs%2C+copd&req=3",
+            "getArticleFigures": "/search?uid=MPX2308&req=5",
+            "detailedQueryURL": "/search?img=MPX2308_synpic24661&query=lungs%2C+copd&it=x&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX2308_synpic24661&query=lungs%2C+copd&it=x&coll=mpx&req=2"
+        },
+        {
+            "uid": "MPX1339",
+            "pmcid": "1339",
+            "docSource": "MPX",
+            "articleType": "encounter",
+            "title": "Lymphangioleiomyomatosis",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=320a1975-2468-4784-8446-423c6e3e2735",
+            "journal_title": "MedPix Images",
+            "journal_abbr": "MedPix",
+            "medpixArticleId": "320a1975-2468-4784-8446-423c6e3e2735",
+            "medpixFigureId": "09b136d6-a551-47df-97d4-0df3992a82a7",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=09b136d6-a551-47df-97d4-0df3992a82a7",
+            "journal_date": {
+                "day": "5",
+                "month": "8",
+                "year": "2006"
+            },
+            "authors": "Miller RJM",
+            "affiliate": "Uniformed Services University",
+            "MeSH": {
+                "minor": [],
+                "major": []
+            },
+            "Problems": "",
+            "image": {
+                "id": "MPX1339_synpic30994",
+                "caption": "Chest x-ray demonstrates severe bilateral interstitial reticular pattern, there is fullness of the middle mogul, possibly <b>pulmonary</b> arterial hypertension. The left costo-vertebral (CV) angle is blunted, possibly from pleural fluid or fibrosis."
+            },
+            "imgThumb": "/imgs/100/136/1339/MPX1339_synpic30994.png",
+            "imgLarge": "/imgs/512/136/1339/MPX1339_synpic30994.png",
+            "imgThumbLarge": "/imgs/137/136/1339/MPX1339_synpic30994.png",
+            "imgGrid150": "/imgs/150/136/1339/MPX1339_synpic30994.png",
+            "similarInCollection": "/search?simCollection=MPX1339_synpic30994&query=lungs%2C+copd&req=3",
+            "getArticleFigures": "/search?uid=MPX1339&req=5",
+            "detailedQueryURL": "/search?img=MPX1339_synpic30994&query=lungs%2C+copd&it=x&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX1339_synpic30994&query=lungs%2C+copd&it=x&coll=mpx&req=2"
+        }
+    ]
+}

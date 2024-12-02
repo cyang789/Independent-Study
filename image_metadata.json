@@ -2,206 +2,243 @@
     "min": 1,
     "max": 10,
     "count": 10,
-    "total": 330,
+    "total": 504,
     "approximage": "false",
     "list": [
         {
-            "uid": "MPX2160",
-            "pmcid": "2160",
+            "uid": "MPX2526",
+            "pmcid": "2526",
             "docSource": "MPX",
             "articleType": "encounter",
-            "title": "Aortic dissection.",
-            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=b394e693-d0c9-45bb-ac5e-6a8c3a9b06e8",
+            "title": "Right main stem intubation, with consequent pulmonary interstitial emphysema complicated by tension pneumothorax",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=f169c010-88c4-4ea3-b162-9bd0b6231ec4",
             "journal_title": "MedPix Images",
             "journal_abbr": "MedPix",
-            "medpixArticleId": "b394e693-d0c9-45bb-ac5e-6a8c3a9b06e8",
-            "medpixFigureId": "6bb4a311-204c-4f74-822b-b1b68108373e",
-            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=6bb4a311-204c-4f74-822b-b1b68108373e",
+            "medpixArticleId": "f169c010-88c4-4ea3-b162-9bd0b6231ec4",
+            "medpixFigureId": "6ae53c2c-a2e4-41c5-8908-4d831a8c50ac",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=6ae53c2c-a2e4-41c5-8908-4d831a8c50ac",
             "journal_date": {
-                "day": "2",
-                "month": "2",
-                "year": "2009"
-            },
-            "authors": "Worthley JCW",
-            "affiliate": "Naval Medical Center San Diego",
-            "MeSH": {
-                "minor": [],
-                "major": []
-            },
-            "Problems": "",
-            "image": {
-                "id": "MPX2160_synpic47785",
-                "caption": "The patient had a baseline <b>chest x ray</b> approximately 2.5 years earlier which was normal.  The is one of the many examples where comparison to &quot;old films&quot; makes the diagnosis much faster."
-            },
-            "imgThumb": "/imgs/100/155/2160/MPX2160_synpic47785.png",
-            "imgLarge": "/imgs/512/155/2160/MPX2160_synpic47785.png",
-            "imgThumbLarge": "/imgs/137/155/2160/MPX2160_synpic47785.png",
-            "imgGrid150": "/imgs/150/155/2160/MPX2160_synpic47785.png",
-            "similarInCollection": "/search?simCollection=MPX2160_synpic47785&query=chest+xray&req=3&it=xg",
-            "getArticleFigures": "/search?uid=MPX2160&req=5",
-            "detailedQueryURL": "/search?img=MPX2160_synpic47785&query=chest+xray&it=x,xg&coll=mpx&req=4",
-            "similarInResults": "/search?simResults=MPX2160_synpic47785&query=chest+xray&it=x,xg&coll=mpx&req=2"
-        },
-        {
-            "uid": "MPX1727",
-            "pmcid": "1727",
-            "docSource": "MPX",
-            "articleType": "encounter",
-            "title": "Malignant Germ Cell Tumor (mixed)",
-            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=6ff2939c-d7bc-4edb-9a63-8f8fb5577342",
-            "journal_title": "MedPix Images",
-            "journal_abbr": "MedPix",
-            "medpixArticleId": "6ff2939c-d7bc-4edb-9a63-8f8fb5577342",
-            "medpixFigureId": "e7b8cf2f-4c0a-4606-9654-23aa0202c717",
-            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=e7b8cf2f-4c0a-4606-9654-23aa0202c717",
-            "journal_date": {
-                "day": "22",
-                "month": "0",
-                "year": "2007"
-            },
-            "authors": "McKee JMM",
-            "affiliate": "Naval Medical Center Portsmouth",
-            "MeSH": {
-                "minor": [],
-                "major": []
-            },
-            "Problems": "",
-            "image": {
-                "id": "MPX1727_synpic34181",
-                "caption": "<b>Chest x-ray</b> shows a large lobulated anterior mediastinal mass (asterisk).  The aorta - both arch and descending <b>thoracic</b> portions - are separate from the mass."
-            },
-            "imgThumb": "/imgs/100/123/1727/MPX1727_synpic34181.png",
-            "imgLarge": "/imgs/512/123/1727/MPX1727_synpic34181.png",
-            "imgThumbLarge": "/imgs/137/123/1727/MPX1727_synpic34181.png",
-            "imgGrid150": "/imgs/150/123/1727/MPX1727_synpic34181.png",
-            "similarInCollection": "/search?simCollection=MPX1727_synpic34181&query=chest+xray&req=3&it=xg",
-            "getArticleFigures": "/search?uid=MPX1727&req=5",
-            "detailedQueryURL": "/search?img=MPX1727_synpic34181&query=chest+xray&it=x,xg&coll=mpx&req=4",
-            "similarInResults": "/search?simResults=MPX1727_synpic34181&query=chest+xray&it=x,xg&coll=mpx&req=2"
-        },
-        {
-            "uid": "MPX1945",
-            "pmcid": "1945",
-            "docSource": "MPX",
-            "articleType": "encounter",
-            "title": "Intralobar Pulmonary Sequestration with superimposed pneumonia",
-            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=91d5c680-f9eb-4927-ab27-bb9be8bba5b7",
-            "journal_title": "MedPix Images",
-            "journal_abbr": "MedPix",
-            "medpixArticleId": "91d5c680-f9eb-4927-ab27-bb9be8bba5b7",
-            "medpixFigureId": "fb97390e-c30d-4f45-ac49-d0be8ebd49c1",
-            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=fb97390e-c30d-4f45-ac49-d0be8ebd49c1",
-            "journal_date": {
-                "day": "25",
+                "day": "15",
                 "month": "11",
                 "year": "2005"
             },
-            "authors": "Palacios III, MD RGPIM",
-            "affiliate": "Brooke Army Medical Center",
+            "authors": "Patterson RAP",
+            "affiliate": "Uniformed Services University",
             "MeSH": {
                 "minor": [],
                 "major": []
             },
             "Problems": "",
             "image": {
-                "id": "MPX1945_synpic19682",
-                "caption": "PA and Lateral <b>chest x-ray</b> demonstrates posterior segment right lower lobe air space consolidation and a small right sided effusion."
+                "id": "MPX2526_synpic24397",
+                "caption": "Not Available."
             },
-            "imgThumb": "/imgs/100/341/1945/MPX1945_synpic19682.png",
-            "imgLarge": "/imgs/512/341/1945/MPX1945_synpic19682.png",
-            "imgThumbLarge": "/imgs/137/341/1945/MPX1945_synpic19682.png",
-            "imgGrid150": "/imgs/150/341/1945/MPX1945_synpic19682.png",
-            "similarInCollection": "/search?simCollection=MPX1945_synpic19682&query=chest+xray&req=3&it=xg",
-            "getArticleFigures": "/search?uid=MPX1945&req=5",
-            "detailedQueryURL": "/search?img=MPX1945_synpic19682&query=chest+xray&it=x,xg&coll=mpx&req=4",
-            "similarInResults": "/search?simResults=MPX1945_synpic19682&query=chest+xray&it=x,xg&coll=mpx&req=2"
+            "imgThumb": "/imgs/100/120/2526/MPX2526_synpic24397.png",
+            "imgLarge": "/imgs/512/120/2526/MPX2526_synpic24397.png",
+            "imgThumbLarge": "/imgs/137/120/2526/MPX2526_synpic24397.png",
+            "imgGrid150": "/imgs/150/120/2526/MPX2526_synpic24397.png",
+            "similarInCollection": "/search?simCollection=MPX2526_synpic24397&query=lungs&req=3&it=xg",
+            "getArticleFigures": "/search?uid=MPX2526&req=5",
+            "detailedQueryURL": "/search?img=MPX2526_synpic24397&query=lungs&it=x,xg&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX2526_synpic24397&query=lungs&it=x,xg&coll=mpx&req=2"
         },
         {
-            "uid": "MPX1945",
-            "pmcid": "1945",
+            "uid": "MPX2526",
+            "pmcid": "2526",
             "docSource": "MPX",
             "articleType": "encounter",
-            "title": "Intralobar Pulmonary Sequestration with superimposed pneumonia",
-            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=91d5c680-f9eb-4927-ab27-bb9be8bba5b7",
+            "title": "Right main stem intubation, with consequent pulmonary interstitial emphysema complicated by tension pneumothorax",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=f169c010-88c4-4ea3-b162-9bd0b6231ec4",
             "journal_title": "MedPix Images",
             "journal_abbr": "MedPix",
-            "medpixArticleId": "91d5c680-f9eb-4927-ab27-bb9be8bba5b7",
-            "medpixFigureId": "d650a305-3ada-45f0-b818-ed84bfd4b874",
-            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=d650a305-3ada-45f0-b818-ed84bfd4b874",
+            "medpixArticleId": "f169c010-88c4-4ea3-b162-9bd0b6231ec4",
+            "medpixFigureId": "3a5f2700-d84c-4757-8e3d-df3fe09e67cc",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=3a5f2700-d84c-4757-8e3d-df3fe09e67cc",
             "journal_date": {
-                "day": "25",
+                "day": "15",
                 "month": "11",
                 "year": "2005"
             },
-            "authors": "Palacios III, MD RGPIM",
-            "affiliate": "Brooke Army Medical Center",
+            "authors": "Patterson RAP",
+            "affiliate": "Uniformed Services University",
             "MeSH": {
                 "minor": [],
                 "major": []
             },
             "Problems": "",
             "image": {
-                "id": "MPX1945_synpic19683",
-                "caption": "PA and Lateral <b>chest x-ray</b> demonstrates posterior segment right lower lobe air space consolidation and a small right sided effusion."
+                "id": "MPX2526_synpic24396",
+                "caption": "Not Available."
             },
-            "imgThumb": "/imgs/100/341/1945/MPX1945_synpic19683.png",
-            "imgLarge": "/imgs/512/341/1945/MPX1945_synpic19683.png",
-            "imgThumbLarge": "/imgs/137/341/1945/MPX1945_synpic19683.png",
-            "imgGrid150": "/imgs/150/341/1945/MPX1945_synpic19683.png",
-            "similarInCollection": "/search?simCollection=MPX1945_synpic19683&query=chest+xray&req=3&it=xg",
-            "getArticleFigures": "/search?uid=MPX1945&req=5",
-            "detailedQueryURL": "/search?img=MPX1945_synpic19683&query=chest+xray&it=x,xg&coll=mpx&req=4",
-            "similarInResults": "/search?simResults=MPX1945_synpic19683&query=chest+xray&it=x,xg&coll=mpx&req=2"
+            "imgThumb": "/imgs/100/120/2526/MPX2526_synpic24396.png",
+            "imgLarge": "/imgs/512/120/2526/MPX2526_synpic24396.png",
+            "imgThumbLarge": "/imgs/137/120/2526/MPX2526_synpic24396.png",
+            "imgGrid150": "/imgs/150/120/2526/MPX2526_synpic24396.png",
+            "similarInCollection": "/search?simCollection=MPX2526_synpic24396&query=lungs&req=3&it=xg",
+            "getArticleFigures": "/search?uid=MPX2526&req=5",
+            "detailedQueryURL": "/search?img=MPX2526_synpic24396&query=lungs&it=x,xg&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX2526_synpic24396&query=lungs&it=x,xg&coll=mpx&req=2"
         },
         {
-            "uid": "MPX1727",
-            "pmcid": "1727",
+            "uid": "MPX2526",
+            "pmcid": "2526",
             "docSource": "MPX",
             "articleType": "encounter",
-            "title": "Malignant Germ Cell Tumor (mixed)",
-            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=6ff2939c-d7bc-4edb-9a63-8f8fb5577342",
+            "title": "Right main stem intubation, with consequent pulmonary interstitial emphysema complicated by tension pneumothorax",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=f169c010-88c4-4ea3-b162-9bd0b6231ec4",
             "journal_title": "MedPix Images",
             "journal_abbr": "MedPix",
-            "medpixArticleId": "6ff2939c-d7bc-4edb-9a63-8f8fb5577342",
-            "medpixFigureId": "3576365c-d4f4-4d62-9cb8-4cca2a58ecfe",
-            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=3576365c-d4f4-4d62-9cb8-4cca2a58ecfe",
+            "medpixArticleId": "f169c010-88c4-4ea3-b162-9bd0b6231ec4",
+            "medpixFigureId": "daab36ee-817f-43b2-ad2f-d30b6b559017",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=daab36ee-817f-43b2-ad2f-d30b6b559017",
             "journal_date": {
-                "day": "22",
-                "month": "0",
-                "year": "2007"
+                "day": "15",
+                "month": "11",
+                "year": "2005"
             },
-            "authors": "McKee JMM",
-            "affiliate": "Naval Medical Center Portsmouth",
+            "authors": "Patterson RAP",
+            "affiliate": "Uniformed Services University",
             "MeSH": {
                 "minor": [],
                 "major": []
             },
             "Problems": "",
             "image": {
-                "id": "MPX1727_synpic34180",
-                "caption": "<b>Chest x-ray</b> shows a large lobulated anterior mediastinal mass (asterisks).  Because the mass does not obscure the shadow of the aortic know and descending aorta (arrowheads) this mass is probably anterior.  You should check the lateral film to confirm."
+                "id": "MPX2526_synpic24395",
+                "caption": "Not Available."
             },
-            "imgThumb": "/imgs/100/123/1727/MPX1727_synpic34180.png",
-            "imgLarge": "/imgs/512/123/1727/MPX1727_synpic34180.png",
-            "imgThumbLarge": "/imgs/137/123/1727/MPX1727_synpic34180.png",
-            "imgGrid150": "/imgs/150/123/1727/MPX1727_synpic34180.png",
-            "similarInCollection": "/search?simCollection=MPX1727_synpic34180&query=chest+xray&req=3&it=xg",
-            "getArticleFigures": "/search?uid=MPX1727&req=5",
-            "detailedQueryURL": "/search?img=MPX1727_synpic34180&query=chest+xray&it=x,xg&coll=mpx&req=4",
-            "similarInResults": "/search?simResults=MPX1727_synpic34180&query=chest+xray&it=x,xg&coll=mpx&req=2"
+            "imgThumb": "/imgs/100/120/2526/MPX2526_synpic24395.png",
+            "imgLarge": "/imgs/512/120/2526/MPX2526_synpic24395.png",
+            "imgThumbLarge": "/imgs/137/120/2526/MPX2526_synpic24395.png",
+            "imgGrid150": "/imgs/150/120/2526/MPX2526_synpic24395.png",
+            "similarInCollection": "/search?simCollection=MPX2526_synpic24395&query=lungs&req=3&it=xg",
+            "getArticleFigures": "/search?uid=MPX2526&req=5",
+            "detailedQueryURL": "/search?img=MPX2526_synpic24395&query=lungs&it=x,xg&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX2526_synpic24395&query=lungs&it=x,xg&coll=mpx&req=2"
         },
         {
-            "uid": "MPX1779",
-            "pmcid": "1779",
+            "uid": "MPX2115",
+            "pmcid": "2115",
             "docSource": "MPX",
             "articleType": "encounter",
-            "title": "1. Metastatic breast cancer to lungs    \n2. Right side vocal cord paralysis   \n3. Anemia, thrombocytopenia  \n4. Transamnitis",
-            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=795e1c65-adfb-4c17-8aa7-2189e501a3fa",
+            "title": "Pulmonary hemorrhage and Pulmonary-renal syndrome",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=ab75d8de-7a57-4860-85f3-44ac1ec7e4eb",
             "journal_title": "MedPix Images",
             "journal_abbr": "MedPix",
-            "medpixArticleId": "795e1c65-adfb-4c17-8aa7-2189e501a3fa",
-            "medpixFigureId": "3449faf6-c66f-457c-a79f-14f9f1684dbe",
-            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=3449faf6-c66f-457c-a79f-14f9f1684dbe",
+            "medpixArticleId": "ab75d8de-7a57-4860-85f3-44ac1ec7e4eb",
+            "medpixFigureId": "5b77a069-4655-4a8a-9938-215c3f87c95d",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=5b77a069-4655-4a8a-9938-215c3f87c95d",
+            "journal_date": {
+                "day": "",
+                "month": "",
+                "year": ""
+            },
+            "authors": "McLaughlin CTM",
+            "affiliate": "Madigan Army Medical Center",
+            "MeSH": {
+                "minor": [],
+                "major": []
+            },
+            "Problems": "",
+            "image": {
+                "id": "MPX2115_synpic21665",
+                "caption": "Diffuse, bilateral, hazy airspace opacities predominately in the mid to low <b>lung</b> zones.  Overall, these findings are nonspecific, but with known history of <b>pulmonary</b> hemorrhage after bronchoscopy or clinical findings of hemoptysis and anemia, these findings are consistent with diffuse <b>pulmonary</b> hemorrhage."
+            },
+            "imgThumb": "/imgs/100/110/2115/MPX2115_synpic21665.png",
+            "imgLarge": "/imgs/512/110/2115/MPX2115_synpic21665.png",
+            "imgThumbLarge": "/imgs/137/110/2115/MPX2115_synpic21665.png",
+            "imgGrid150": "/imgs/150/110/2115/MPX2115_synpic21665.png",
+            "similarInCollection": "/search?simCollection=MPX2115_synpic21665&query=lungs&req=3&it=xg",
+            "getArticleFigures": "/search?uid=MPX2115&req=5",
+            "detailedQueryURL": "/search?img=MPX2115_synpic21665&query=lungs&it=x,xg&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX2115_synpic21665&query=lungs&it=x,xg&coll=mpx&req=2"
+        },
+        {
+            "uid": "MPX2115",
+            "pmcid": "2115",
+            "docSource": "MPX",
+            "articleType": "encounter",
+            "title": "Pulmonary hemorrhage and Pulmonary-renal syndrome",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=ab75d8de-7a57-4860-85f3-44ac1ec7e4eb",
+            "journal_title": "MedPix Images",
+            "journal_abbr": "MedPix",
+            "medpixArticleId": "ab75d8de-7a57-4860-85f3-44ac1ec7e4eb",
+            "medpixFigureId": "add2f769-dc49-4554-a480-258f47003ac3",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=add2f769-dc49-4554-a480-258f47003ac3",
+            "journal_date": {
+                "day": "",
+                "month": "",
+                "year": ""
+            },
+            "authors": "McLaughlin CTM",
+            "affiliate": "Madigan Army Medical Center",
+            "MeSH": {
+                "minor": [],
+                "major": []
+            },
+            "Problems": "",
+            "image": {
+                "id": "MPX2115_synpic21666",
+                "caption": "Diffuse, bilateral, hazy airspace opacities predominately in the mid to low <b>lung</b> zones.  Overall, these findings are nonspecific, but with known history of <b>pulmonary</b> hemorrhage after bronchoscopy or clinical findings of hemoptysis and anemia, these findings are consistent with diffuse <b>pulmonary</b> hemorrhage."
+            },
+            "imgThumb": "/imgs/100/110/2115/MPX2115_synpic21666.png",
+            "imgLarge": "/imgs/512/110/2115/MPX2115_synpic21666.png",
+            "imgThumbLarge": "/imgs/137/110/2115/MPX2115_synpic21666.png",
+            "imgGrid150": "/imgs/150/110/2115/MPX2115_synpic21666.png",
+            "similarInCollection": "/search?simCollection=MPX2115_synpic21666&query=lungs&req=3&it=xg",
+            "getArticleFigures": "/search?uid=MPX2115&req=5",
+            "detailedQueryURL": "/search?img=MPX2115_synpic21666&query=lungs&it=x,xg&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX2115_synpic21666&query=lungs&it=x,xg&coll=mpx&req=2"
+        },
+        {
+            "uid": "MPX1033",
+            "pmcid": "1033",
+            "docSource": "MPX",
+            "articleType": "encounter",
+            "title": "Idiopathic Pulmonary Hemosiderosis",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=0338cbeb-d92e-4339-9d94-78e613dc7a46",
+            "journal_title": "MedPix Images",
+            "journal_abbr": "MedPix",
+            "medpixArticleId": "0338cbeb-d92e-4339-9d94-78e613dc7a46",
+            "medpixFigureId": "b22c856e-514b-490a-94e1-2047fb9921f7",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=b22c856e-514b-490a-94e1-2047fb9921f7",
+            "journal_date": {
+                "day": "12",
+                "month": "10",
+                "year": "2008"
+            },
+            "authors": "Germain AG",
+            "affiliate": "Uniformed Services University",
+            "MeSH": {
+                "minor": [],
+                "major": []
+            },
+            "Problems": "",
+            "image": {
+                "id": "MPX1033_synpic45449",
+                "caption": "November 2006:  During acute bleeding episode, diffuse areas of increased opacity and decreased <b>lung</b> volume are seen throughout the <b>lungs</b>. These are non-specific findings (e.g., may suggest early consolidative process v. <b>pulmonary</b> inflammation and edema) and require clinical correlation."
+            },
+            "imgThumb": "/imgs/100/231/1033/MPX1033_synpic45449.png",
+            "imgLarge": "/imgs/512/231/1033/MPX1033_synpic45449.png",
+            "imgThumbLarge": "/imgs/137/231/1033/MPX1033_synpic45449.png",
+            "imgGrid150": "/imgs/150/231/1033/MPX1033_synpic45449.png",
+            "similarInCollection": "/search?simCollection=MPX1033_synpic45449&query=lungs&req=3&it=xg",
+            "getArticleFigures": "/search?uid=MPX1033&req=5",
+            "detailedQueryURL": "/search?img=MPX1033_synpic45449&query=lungs&it=x,xg&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX1033_synpic45449&query=lungs&it=x,xg&coll=mpx&req=2"
+        },
+        {
+            "uid": "MPX1835",
+            "pmcid": "1835",
+            "docSource": "MPX",
+            "articleType": "encounter",
+            "title": "Langerhans cell histiocytosis.",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=825a328a-71b2-463a-a787-0ddc7bf57328",
+            "journal_title": "MedPix Images",
+            "journal_abbr": "MedPix",
+            "medpixArticleId": "825a328a-71b2-463a-a787-0ddc7bf57328",
+            "medpixFigureId": "446cff89-435a-4596-83d1-228693848bdc",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=446cff89-435a-4596-83d1-228693848bdc",
             "journal_date": {
                 "day": "",
                 "month": "",
@@ -215,30 +252,30 @@
             },
             "Problems": "",
             "image": {
-                "id": "MPX1779_synpic18319",
-                "caption": "<b>Chest x-ray</b>: multiple pulmonary nodules which are too numerous to count, increased size and number in comparison to the last one from 04 Dec 02.  A left arm catheter is present with the tip projecting over the level of the right superior cavoatrial junction.  Evidence of prior right breast surgery.  No infiltrates or effusion."
+                "id": "MPX1835_synpic17403",
+                "caption": "Not Available."
             },
-            "imgThumb": "/imgs/100/175/1779/MPX1779_synpic18319.png",
-            "imgLarge": "/imgs/512/175/1779/MPX1779_synpic18319.png",
-            "imgThumbLarge": "/imgs/137/175/1779/MPX1779_synpic18319.png",
-            "imgGrid150": "/imgs/150/175/1779/MPX1779_synpic18319.png",
-            "similarInCollection": "/search?simCollection=MPX1779_synpic18319&query=chest+xray&req=3&it=xg",
-            "getArticleFigures": "/search?uid=MPX1779&req=5",
-            "detailedQueryURL": "/search?img=MPX1779_synpic18319&query=chest+xray&it=x,xg&coll=mpx&req=4",
-            "similarInResults": "/search?simResults=MPX1779_synpic18319&query=chest+xray&it=x,xg&coll=mpx&req=2"
+            "imgThumb": "/imgs/100/231/1835/MPX1835_synpic17403.png",
+            "imgLarge": "/imgs/512/231/1835/MPX1835_synpic17403.png",
+            "imgThumbLarge": "/imgs/137/231/1835/MPX1835_synpic17403.png",
+            "imgGrid150": "/imgs/150/231/1835/MPX1835_synpic17403.png",
+            "similarInCollection": "/search?simCollection=MPX1835_synpic17403&query=lungs&req=3&it=xg",
+            "getArticleFigures": "/search?uid=MPX1835&req=5",
+            "detailedQueryURL": "/search?img=MPX1835_synpic17403&query=lungs&it=x,xg&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX1835_synpic17403&query=lungs&it=x,xg&coll=mpx&req=2"
         },
         {
-            "uid": "MPX1779",
-            "pmcid": "1779",
+            "uid": "MPX1835",
+            "pmcid": "1835",
             "docSource": "MPX",
             "articleType": "encounter",
-            "title": "1. Metastatic breast cancer to lungs    \n2. Right side vocal cord paralysis   \n3. Anemia, thrombocytopenia  \n4. Transamnitis",
-            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=795e1c65-adfb-4c17-8aa7-2189e501a3fa",
+            "title": "Langerhans cell histiocytosis.",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=825a328a-71b2-463a-a787-0ddc7bf57328",
             "journal_title": "MedPix Images",
             "journal_abbr": "MedPix",
-            "medpixArticleId": "795e1c65-adfb-4c17-8aa7-2189e501a3fa",
-            "medpixFigureId": "4904d6a5-671f-4b35-9093-29ef792826a3",
-            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=4904d6a5-671f-4b35-9093-29ef792826a3",
+            "medpixArticleId": "825a328a-71b2-463a-a787-0ddc7bf57328",
+            "medpixFigureId": "4250224e-4dc6-40b5-a517-b0f5f14a0069",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=4250224e-4dc6-40b5-a517-b0f5f14a0069",
             "journal_date": {
                 "day": "",
                 "month": "",
@@ -252,128 +289,91 @@
             },
             "Problems": "",
             "image": {
-                "id": "MPX1779_synpic18320",
-                "caption": "<b>Chest x-ray</b>: multiple pulmonary nodules which are too numerous to count, increased size and number in comparison to the last one from 04 Dec 02.  A left arm catheter is present with the tip projecting over the level of the right superior cavoatrial junction.  Evidence of prior right breast surgery.  No infiltrates or effusion."
+                "id": "MPX1835_synpic17404",
+                "caption": "Not Available."
             },
-            "imgThumb": "/imgs/100/175/1779/MPX1779_synpic18320.png",
-            "imgLarge": "/imgs/512/175/1779/MPX1779_synpic18320.png",
-            "imgThumbLarge": "/imgs/137/175/1779/MPX1779_synpic18320.png",
-            "imgGrid150": "/imgs/150/175/1779/MPX1779_synpic18320.png",
-            "similarInCollection": "/search?simCollection=MPX1779_synpic18320&query=chest+xray&req=3&it=xg",
-            "getArticleFigures": "/search?uid=MPX1779&req=5",
-            "detailedQueryURL": "/search?img=MPX1779_synpic18320&query=chest+xray&it=x,xg&coll=mpx&req=4",
-            "similarInResults": "/search?simResults=MPX1779_synpic18320&query=chest+xray&it=x,xg&coll=mpx&req=2"
+            "imgThumb": "/imgs/100/231/1835/MPX1835_synpic17404.png",
+            "imgLarge": "/imgs/512/231/1835/MPX1835_synpic17404.png",
+            "imgThumbLarge": "/imgs/137/231/1835/MPX1835_synpic17404.png",
+            "imgGrid150": "/imgs/150/231/1835/MPX1835_synpic17404.png",
+            "similarInCollection": "/search?simCollection=MPX1835_synpic17404&query=lungs&req=3&it=xg",
+            "getArticleFigures": "/search?uid=MPX1835&req=5",
+            "detailedQueryURL": "/search?img=MPX1835_synpic17404&query=lungs&it=x,xg&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX1835_synpic17404&query=lungs&it=x,xg&coll=mpx&req=2"
         },
         {
-            "uid": "MPX1755",
-            "pmcid": "1755",
+            "uid": "MPX2355",
+            "pmcid": "2355",
             "docSource": "MPX",
             "articleType": "encounter",
-            "title": "Calcified pericardium",
-            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=74d79911-93b3-4177-8d7c-8fddeecd3062",
+            "title": "Cowden's Syndrome",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=d382e935-e319-453f-83e8-dc9a9cb9610f",
             "journal_title": "MedPix Images",
             "journal_abbr": "MedPix",
-            "medpixArticleId": "74d79911-93b3-4177-8d7c-8fddeecd3062",
-            "medpixFigureId": "c996de3f-f685-47db-a7c6-ad795d1b3e49",
-            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=c996de3f-f685-47db-a7c6-ad795d1b3e49",
+            "medpixArticleId": "d382e935-e319-453f-83e8-dc9a9cb9610f",
+            "medpixFigureId": "6845bc10-3358-4fe8-aaec-f3d37c12d141",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=6845bc10-3358-4fe8-aaec-f3d37c12d141",
+            "journal_date": {
+                "day": "23",
+                "month": "3",
+                "year": "2010"
+            },
+            "authors": "Perry AVP",
+            "affiliate": "Uniformed Services University",
+            "MeSH": {
+                "minor": [],
+                "major": []
+            },
+            "Problems": "",
+            "image": {
+                "id": "MPX2355_synpic52989",
+                "caption": "PA view shows hypoinflated <b>lungs</b> with increased <b>pulmonary</b> markings throughout all <b>lung</b> fields.  Multiple <b>pulmonary</b> nodules are appreciated with the largest present in the right lower lobe.  Breast shadows are absent bilaterally.  Fluid is present in the right major and minor fissures but no blunting of costophrenic angles."
+            },
+            "imgThumb": "/imgs/100/350/2355/MPX2355_synpic52989.png",
+            "imgLarge": "/imgs/512/350/2355/MPX2355_synpic52989.png",
+            "imgThumbLarge": "/imgs/137/350/2355/MPX2355_synpic52989.png",
+            "imgGrid150": "/imgs/150/350/2355/MPX2355_synpic52989.png",
+            "similarInCollection": "/search?simCollection=MPX2355_synpic52989&query=lungs&req=3&it=xg",
+            "getArticleFigures": "/search?uid=MPX2355&req=5",
+            "detailedQueryURL": "/search?img=MPX2355_synpic52989&query=lungs&it=x,xg&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX2355_synpic52989&query=lungs&it=x,xg&coll=mpx&req=2"
+        },
+        {
+            "uid": "MPX1785",
+            "pmcid": "1785",
+            "docSource": "MPX",
+            "articleType": "encounter",
+            "title": "Spontaneous pneumothorax secondary to pulmonary lymphangioleiomyomatosis",
+            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=7aa2e886-bd13-4ef5-88a2-66bfd8ab93c6",
+            "journal_title": "MedPix Images",
+            "journal_abbr": "MedPix",
+            "medpixArticleId": "7aa2e886-bd13-4ef5-88a2-66bfd8ab93c6",
+            "medpixFigureId": "3c86aafd-5405-4504-905e-5095d47479e2",
+            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=3c86aafd-5405-4504-905e-5095d47479e2",
             "journal_date": {
                 "day": "",
                 "month": "",
                 "year": ""
             },
-            "authors": "Carlson CLC",
-            "affiliate": "Brooke Army Medical Center",
+            "authors": "Patterson RAP",
+            "affiliate": "Uniformed Services University",
             "MeSH": {
                 "minor": [],
                 "major": []
             },
             "Problems": "",
             "image": {
-                "id": "MPX1755_synpic17665",
-                "caption": "PA the lateral <b>chest x-ray</b> demonstrate a curvilinear opacity projecting over the right lower cardiac border on the PA view, and anteriorly on the lateral view suggesting a location within or anterior to the right ventricle, normal heart size, and question of mild pulmonary venous engorgement.  No pleural effusions"
+                "id": "MPX1785_synpic24390",
+                "caption": "CXR: Large pneumothorax at base of left <b>lung</b>, with cystic air spaces in right <b>lung</b> base."
             },
-            "imgThumb": "/imgs/100/151/1755/MPX1755_synpic17665.png",
-            "imgLarge": "/imgs/512/151/1755/MPX1755_synpic17665.png",
-            "imgThumbLarge": "/imgs/137/151/1755/MPX1755_synpic17665.png",
-            "imgGrid150": "/imgs/150/151/1755/MPX1755_synpic17665.png",
-            "similarInCollection": "/search?simCollection=MPX1755_synpic17665&query=chest+xray&req=3&it=xg",
-            "getArticleFigures": "/search?uid=MPX1755&req=5",
-            "detailedQueryURL": "/search?img=MPX1755_synpic17665&query=chest+xray&it=x,xg&coll=mpx&req=4",
-            "similarInResults": "/search?simResults=MPX1755_synpic17665&query=chest+xray&it=x,xg&coll=mpx&req=2"
-        },
-        {
-            "uid": "MPX1755",
-            "pmcid": "1755",
-            "docSource": "MPX",
-            "articleType": "encounter",
-            "title": "Calcified pericardium",
-            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=74d79911-93b3-4177-8d7c-8fddeecd3062",
-            "journal_title": "MedPix Images",
-            "journal_abbr": "MedPix",
-            "medpixArticleId": "74d79911-93b3-4177-8d7c-8fddeecd3062",
-            "medpixFigureId": "271962a5-f7ec-473b-807c-8a5abbef515c",
-            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=271962a5-f7ec-473b-807c-8a5abbef515c",
-            "journal_date": {
-                "day": "",
-                "month": "",
-                "year": ""
-            },
-            "authors": "Carlson CLC",
-            "affiliate": "Brooke Army Medical Center",
-            "MeSH": {
-                "minor": [],
-                "major": []
-            },
-            "Problems": "",
-            "image": {
-                "id": "MPX1755_synpic17664",
-                "caption": "PA the lateral <b>chest x-ray</b> demonstrate a curvilinear opacity projecting over the right lower cardiac border on the PA view, and anteriorly on the lateral view suggesting a location within or anterior to the right ventricle, normal heart size, and question of mild pulmonary venous engorgement.  No pleural effusions ."
-            },
-            "imgThumb": "/imgs/100/151/1755/MPX1755_synpic17664.png",
-            "imgLarge": "/imgs/512/151/1755/MPX1755_synpic17664.png",
-            "imgThumbLarge": "/imgs/137/151/1755/MPX1755_synpic17664.png",
-            "imgGrid150": "/imgs/150/151/1755/MPX1755_synpic17664.png",
-            "similarInCollection": "/search?simCollection=MPX1755_synpic17664&query=chest+xray&req=3&it=xg",
-            "getArticleFigures": "/search?uid=MPX1755&req=5",
-            "detailedQueryURL": "/search?img=MPX1755_synpic17664&query=chest+xray&it=x,xg&coll=mpx&req=4",
-            "similarInResults": "/search?simResults=MPX1755_synpic17664&query=chest+xray&it=x,xg&coll=mpx&req=2"
-        },
-        {
-            "uid": "MPX1920",
-            "pmcid": "1920",
-            "docSource": "MPX",
-            "articleType": "encounter",
-            "title": "Boerhaave's syndrome",
-            "fulltext_html_url": "https://medpix.nlm.nih.gov/bycase?id=8e498f88-f43e-48f3-9d15-b25ba043bd9b",
-            "journal_title": "MedPix Images",
-            "journal_abbr": "MedPix",
-            "medpixArticleId": "8e498f88-f43e-48f3-9d15-b25ba043bd9b",
-            "medpixFigureId": "1ee8682a-50eb-471d-960c-28d123f59dd7",
-            "medpixImageURL": "https://medpix.nlm.nih.gov/case?id=1ee8682a-50eb-471d-960c-28d123f59dd7",
-            "journal_date": {
-                "day": "25",
-                "month": "11",
-                "year": "2005"
-            },
-            "authors": "Harston CH",
-            "affiliate": "Wilford Hall USAF Medical Center",
-            "MeSH": {
-                "minor": [],
-                "major": []
-            },
-            "Problems": "",
-            "image": {
-                "id": "MPX1920_synpic18741",
-                "caption": "<b>Chest X-ray</b> shows left pleural effusion"
-            },
-            "imgThumb": "/imgs/100/316/1920/MPX1920_synpic18741.png",
-            "imgLarge": "/imgs/512/316/1920/MPX1920_synpic18741.png",
-            "imgThumbLarge": "/imgs/137/316/1920/MPX1920_synpic18741.png",
-            "imgGrid150": "/imgs/150/316/1920/MPX1920_synpic18741.png",
-            "similarInCollection": "/search?simCollection=MPX1920_synpic18741&query=chest+xray&req=3&it=xg",
-            "getArticleFigures": "/search?uid=MPX1920&req=5",
-            "detailedQueryURL": "/search?img=MPX1920_synpic18741&query=chest+xray&it=x,xg&coll=mpx&req=4",
-            "similarInResults": "/search?simResults=MPX1920_synpic18741&query=chest+xray&it=x,xg&coll=mpx&req=2"
+            "imgThumb": "/imgs/100/181/1785/MPX1785_synpic24390.png",
+            "imgLarge": "/imgs/512/181/1785/MPX1785_synpic24390.png",
+            "imgThumbLarge": "/imgs/137/181/1785/MPX1785_synpic24390.png",
+            "imgGrid150": "/imgs/150/181/1785/MPX1785_synpic24390.png",
+            "similarInCollection": "/search?simCollection=MPX1785_synpic24390&query=lungs&req=3&it=xg",
+            "getArticleFigures": "/search?uid=MPX1785&req=5",
+            "detailedQueryURL": "/search?img=MPX1785_synpic24390&query=lungs&it=x,xg&coll=mpx&req=4",
+            "similarInResults": "/search?simResults=MPX1785_synpic24390&query=lungs&it=x,xg&coll=mpx&req=2"
         }
     ]
 }
