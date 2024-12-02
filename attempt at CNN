@@ -4,7 +4,9 @@ from tensorflow.keras.applications import VGG16
 from tensorflow.keras.applications.vgg16 import preprocess_input
 from tensorflow.keras.preprocessing.image import load_img, img_to_array
 from sklearn.metrics.pairwise import cosine_similarity
-# run this too: pip install tensorflow numpy scikit-learn
+# pip install tensorflow numpy scikit-learn
+# python3 -m install tensorflow    (need to enable Windows Long Path Support)
+# pip install pillow
 
 
 # Define image directory
