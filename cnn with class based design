@@ -1,0 +1,75 @@
+"""imported as python file bc i couldn't figure out how to import it thru vs code - gonna just use pycharm """
+
+import os
+import numpy as np
+from tensorflow.keras.applications import VGG16
+from tensorflow.keras.applications.vgg16 import preprocess_input
+from tensorflow.keras.utils import load_img, img_to_array
+from sklearn.metrics.pairwise import cosine_similarity
+
+
+class ImageFeatureExtractor:
+    """
+    Extracts features from images using a pre-trained VGG16 model.
+    """
+    def __init__(self, model_weights="imagenet"):
+        self.model = VGG16(weights=model_weights, include_top=False)
+
+    def preprocess_image(self, image_path, target_size=(224, 224)):
+        image = load_img(image_path, target_size=target_size)
+        image_array = img_to_array(image)
+        image_array = np.expand_dims(image_array, axis=0)
+        return preprocess_input(image_array)
+
+    def extract(self, image_path):
+        preprocessed_image = self.preprocess_image(image_path)
+        feature_vector = self.model.predict(preprocessed_image)
+        return feature_vector.flatten()
+
+
+class ImageComparator:
+    """
+    Compares images based on their feature vectors.
+    """
+    def __init__(self, feature_extractor):
+        self.feature_extractor = feature_extractor
+        self.features = {}
+
+    def load_images(self, directory):
+        for file_name in sorted(os.listdir(directory)):
+            full_path = os.path.join(directory, file_name)
+            self.features[file_name] = self.feature_extractor.extract(full_path)
+
+    def compare(self, target_image_name):
+        if target_image_name not in self.features:
+            print(f"{target_image_name} not found.")
+            return []
+
+        target_features = self.features[target_image_name]
+        similarities = {
+            image_name: cosine_similarity([target_features], [features])[0][0]
+            for image_name, features in self.features.items()
+            if image_name != target_image_name
+        }
+        return sorted(similarities.items(), key=lambda x: x[1], reverse=True)
+
+
+# Main script
+if __name__ == "__main__":
+    image_dir = "images"
+    target_image = "image_5.jpg"
+
+    # Initialize feature extractor and comparator
+    extractor = ImageFeatureExtractor()
+    comparator = ImageComparator(extractor)
+
+    # Load and process images
+    comparator.load_images(image_dir)
+
+    # Compare images
+    results = comparator.compare(target_image)
+
+    if results:
+        print(f"Images similar to {target_image}:")
+        for image, similarity in results:
+            print(f"{image}: {similarity:.4f}")
