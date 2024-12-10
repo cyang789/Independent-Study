@@ -1,0 +1,499 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="google-site-verification" content="jpincErNMV_4w__Q9mY-t949fHYFx8xEgL4LM9oRrNw" />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="ROBOTS" content="INDEX, FOLLOW"/>
+        <meta name="_csrf" content="81b35221-3c9c-4167-9f57-efb8dcb3855a"/>
+	<meta name="_csrf_header" content="X-XSRF-TOKEN"/>
+        <meta name="_csrf_parameterName" content="_csrf"/>
+        <meta name="msvalidate.01" content="3CFD723BC959C86D2CF0E81EF5E605ED" />
+        <meta name="yandex-verification" content="e5818e0ba462068d" />
+        
+            <link rel="canonical" href="https://medpix.nlm.nih.gov/case?id=2c9eb738-b0a1-4240-8ca2-b482b494a8c2" />
+        
+        <link rel="icon" href="/resources/images/favicon.ico" type="image/png"/>
+        <link rel="shortcut icon" href="/resources/images/favicon.ico" type="image/png"/> 
+        
+        
+            
+                <title>MedPix Case - 1. Metastatic breast cancer to lungs    
+2. Right side vocal cord paralysis   
+3. Anemia, thrombocytopenia  
+4. Transamnitis</title>
+                <meta name="description" content="CT-No PE/DVT.  No bone or liver mets.  Increase in mediastinal adenopathy in the aortopulmonary window and subcarinal region.  Evidence of right masectomy within the soft tissues. Overall progression of lung parenchymal disease."/>
+                <meta name="keywords" content="1. Metastatic breast cancer to lungs    
+2. Right side vocal cord paralysis   
+3. Anemia, thrombocytopenia  
+4. Transamnitis,Axial Chest CT"/>
+            
+            
+            
+        
+        <link rel="stylesheet" href="../resources/frameworks/flexslider/flexslider.css"/>
+        <link rel="stylesheet" href="../resources/css/lib/jquery-ui.min.css"/>
+        <link rel="stylesheet" href="../resources/css/lib/bootstrap.min.css"/>
+        <link rel="stylesheet" href="../resources/frameworks/font-awesome-4.4.0/css/font-awesome.min.css"/>
+        <link rel="stylesheet" href="../resources/frameworks/zoom/zoom.css"/>
+        <link rel="stylesheet" href="../resources/css/lib/normalize.css"/>        
+        <link rel="stylesheet" href="../resources/frameworks/slick/slick.css"/>
+        <link rel="stylesheet" href="../resources/frameworks/slick/slick-theme.css"/>
+        <link rel="stylesheet" href="../resources/css/lib/angular-material.min.css"/>
+        <link rel="stylesheet" href="../resources/css/app.css"/>
+        <link href="../resources/frameworks/video-js-5.4.6/video-js.min.css" rel="stylesheet"/>
+        <link rel="stylesheet" href="../resources/frameworks/organimagemap/css/organimagemap.css"/>
+        
+    </head>
+    <body ng-app="medPix">
+        
+    <header class="usa-header usa-header--extended">
+           <div class="usa-nav-layout grid-row">
+
+        <!--div class="shutdown text-white">
+        <p>Because of a lapse in government funding, the information on this website may not be up to date, transactions submitted via the website may not be processed, and the agency may not be able to respond to inquiries until appropriations are enacted.
+        The NIH Clinical Center (the research hospital of NIH) is open. For more details about its operating status, please visit <a href="https://cc.nih.gov/" target="_blank" class="text-white text-underline">cc.nih.gov</a>.
+        Updates regarding government operating status and resumption of normal operations can be found at <a href="https://www.usa.gov/" target="_blank" class="text-white text-underline">USA.gov</a>.</p>
+        </div-->
+
+             <div class="usa-logo grid-col-10" id="extended-logo">
+
+              <div class="header-logo" style="line-height:1rem;">
+                <div class="display-flex flex-row flex-align-center">
+                    <div>
+                      <a href="https://www.nih.gov" id="anch_0"><img src="/resources/images/logo-NIH-block.png" alt="NIH logo chevron"></a>
+                    </div>    
+                    <div class="display-flex flex-column">
+                      <a href="https://www.nlm.nih.gov" id="anch_1">
+                        <img src="/resources/images/logo-NLM-block.png" alt="portion of logo that reads National Library of Medicine">
+                      </a>
+                      <a href="/index.html" id="anch_2">
+                        <img src="/resources/images/logo-LHC-block.png" alt="portion of logo that reads Lister Hill National Center for Biomedical Communications">
+                      </a>
+                    </div>
+                </div>
+
+              <!--div class="header-logo"-->
+                <!--object type="image/svg+xml"  data="/assets/images/LHNCBC_white.png" class="logo"></object-->
+
+              </div>
+            </div>
+<!--            <div class="LHC-menu grid-col-2 display-flex flex-row flex-justify-end flex-align-center">
+              <button class="usa-menu-btn"><i class="fas fa-bars fa-2x" title="3 bar menu button"></i></button>
+            </div>-->
+          </div>
+        </header> 
+        <nav class="navbar navbar-default">
+            <div class="container-fluid"> 
+                
+                <div class="navbar-header">  
+                    <div class="navbar-brand pull-left">                          
+                        <a href="/home" class="navbar-header-logo">
+                            <img class="logo" src="/resources/images/medpix-logo-R.svg" alt="logo"/>
+                        </a>
+                    </div>
+                    <button type="button" class="navbar-toggle collapsed pull-left" data-toggle="collapse" 
+                            data-target="#medpix-menu-bar" aria-expanded="false" 
+                            aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                </div>
+                
+<!--                <div class="nav navbar-left hidden-xs">
+                    <ul class="nav navbar-nav">
+                        <li>                          
+                            <form class="navbar-form" id="navbar-search">                                   
+                                <input type="text" class="search-text-box" placeholder="Search">
+                                <i class="fa fa-search" state="close"></i>                               
+                            </form>
+                            
+                        </li>
+                    </ul>   
+                </div>-->
+                
+                <form class="navbar-form navbar-left hidden-xs" role="search" id="search-bar">
+                    <div class="form-group">
+                        <input type="text" class="" placeholder="Search" id="search-query">
+                        <i class="fa fa-search clickable" state="close" id="do-search"></i>
+                    </div>  
+                    <span class="advance">
+                        <a href="/advancedsearch" class="navbar-header-logo" id="advancedsearch-button">
+                            Advanced
+                        </a>
+                    </span>
+                    
+<!--                    <span class="clickable advance-search">Advanced</span>                    -->
+                </form>
+
+
+                <div class="navbar-collapse collapse" id="medpix-menu-bar">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+                               role="button" aria-haspopup="true" aria-expanded="false">
+                                CME<span class="caret"></span>
+                                <ul class="dropdown-menu">
+                                    <li><a href="/currentcaseofweek" target="_self">Current CME COW</a></li> 
+                                     <li><a href="/caseofweeklist" target="_blank" rel="noopener noreferrer">Choose a Case</a></li> 
+                                     
+                                        <li><a href="/quiz/byorgan" target="_self">Quiz By Organ System</a></li> 
+                                        <li><a href="#" onclick="window.open('/resources/docs/How_to_take_cme_quiz.pdf', '_blank', 'fullscreen=yes'); return false;" >How to earn CME Guide</a></li>
+                                        <li><a href="#" onclick="window.open('/resources/docs/How_to_print_cme_records.pdf', '_blank', 'fullscreen=yes'); return false;">How to print CME Records</a></li>
+                                        <li><a href="/cmeaccreditation" target="_blank" rel="noopener noreferrer">CME Accreditation</a></li> 
+                                </ul>
+                            </a>    
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+                               role="button" aria-haspopup="true" aria-expanded="false">
+                                Cases<span class="caret"></span>
+                                 <ul class="dropdown-menu">  
+                                     <li><a href="/casebydiagnosis" class="navbar-link">By Diagnosis</a></li> 
+                                     <li><a href="https://cup.nlm.nih.gov" class="navbar-link" target="_blank" rel="noopener noreferrer">Contribute Case</a></li>  
+                                     <li><a href="https://openi.nlm.nih.gov/services.php" class="navbar-link" target="_blank" rel="noopener noreferrer">Download Cases</a></li>  
+                                </ul>
+                            </a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+                               role="button" aria-haspopup="true" aria-expanded="false">
+                                Topics<span class="caret"></span>
+                                 <ul class="dropdown-menu">                                       
+                                     <li><a href="/topiclist" class="navbar-link">Topic List</a></li>                                     
+                                </ul>
+                            </a>
+                        </li>
+                        
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle logged-user-name" data-toggle="dropdown"
+                               role="button" aria-haspopup="true" aria-expanded="false">
+                                Login<span class="caret"></span>
+                                
+                                <ul class="dropdown-menu">
+                                      
+                                        <li><a href="/nihlogin" target="_blank" rel="noopener noreferrer" class="navbar-link">NIH Login</a></li>                                                                                
+                                            
+                                    
+                                    
+                                </ul>
+                            </a>
+                        </li>
+                        
+<!--                        <li><a href="#" class="navbar-link">Teaching Material</a></li>
+                        <li><a href="#" class="navbar-link">About</a></li>-->
+ 
+                    </ul>                    
+                </div> 
+            </div>
+        </nav> 
+        
+        <div class="visible-xs searchbox-mobile">
+            <form class="" role="search" id="search-bar-mobile">
+                <div class="form-group">
+                    <input type="text" class="" placeholder="Search" id="search-query-mobile">
+                    <i class="fa fa-search clickable" state="close" id="do-search-mobile"></i>
+                </div>
+                <div class="clickable advance-search">Advanced</div>                    
+            </form>
+        </div>  
+        
+        <div id="resetpasswordModal" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>                        
+                        <div id="resetpassword-error" class="alert alert-danger"></div>                        
+                    </div>
+                    <div class="modal-body">                         
+                                                                            
+                    </div>                
+                </div>
+            </div>
+        </div>
+        
+        
+        <div id="registrationModal" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>                        
+                                               
+                    </div>
+                    <div class="modal-body"> 
+                                                                            
+                    </div>                
+                </div>
+            </div>
+        </div>
+        
+                
+
+                                <div id="inactivityModal" class="modal fade" role="dialog" data-backdrop="static">
+                                    <div class="modal-dialog">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal">&times;</button>                                                                        
+                                            </div>
+                                            <div class="modal-body"> 
+                                                <div class="medpix-form">
+                                                    <div class="container-fluid">
+
+                                                        <div class="row">
+                                                            <div class="medpix-form-element col-lg-12">
+                                                                <h2>Are you still there ?</h2> 
+                                                                <br>
+                                                                For security reasons you will be automatically logged out of the system in next 2 minutes. To continue please click the button below.
+                                                                <br>
+                                                                <label id="inactivity-timer">120</label>
+                                                            </div>
+                                                        </div>                                                            
+                                                    </div>
+                                                    <div class="controls">
+                                                        <div id="inactivity-logout" class="primary-button clickable">
+                                                            LOGOUT
+                                                        </div>
+                                                        <div id="inactivity-continue" class="cancel-button clickable">
+                                                            CONTINUE
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>   
+                                        </div>
+                                    </div>
+                                </div>   
+
+        <div class="loader-icon">    
+            <i class="fa fa-5x fa-spinner fa-spin"></i>
+        </div>
+        <div id="content" ng-view=""></div>
+        
+        <br>
+       <footer>        
+        <div class="footer">
+            <!--            <div>
+                            MedPix® is a Registered Trademark of the Department of the Army
+                        </div>
+                        <div>
+                            The MedPix® Database Engine is Patented - USPTO No. 7,080,098
+                            <br>Portions of MedPix® are Copyright © 1999 - 2014 by J.G. Smirniotopoulos, M.D. & H. Irvine, M.D. 
+                            <br>The MedPix® Classification Schema Copyright © 1999 - 2014 by J.G.Smirniotopoulos,M.D.
+                        </div>-->
+            
+            
+            
+            
+<!--            <div class="container-fluid">
+                <div class="row">
+                    <div class="hidden-xs col-sm-5 col-sm-push-5 col-md-5 col-md-push-6 col-lg-3 col-lg-push-0 col-footer footer-icons">
+                        <div>
+                            <a href="http://www.hhs.gov/" target="_blank" rel="noopener noreferrer"><img src="/resources/images/NLM_ftrtrns_DHHS.png" alt="HHS" height="50px"></a>
+                            <a href="http://www.nlm.nih.gov/" target="_blank" rel="noopener noreferrer"><img src="/resources/images/NIH_National-Library-of-Medicine_blue-grey.png" alt="NLM" height="50px"></a>
+                            <a href="http://lhncbc.nlm.nih.gov/" target="_blank" rel="noopener noreferrer"><img src="/resources/images/NLM_ftrtrns_LHNCBC.png" alt="LHNCBC" height="50px"></a>
+                        </div>
+                    </div>
+                    <div class="col-xs-9 col-sm-5 col-sm-pull-5 col-md-6 col-md-pull-5 col-lg-8 col-lg-pull-0 address col-footer">
+                        <div>
+                            <a href="http://lhncbc.nlm.nih.gov/" target="_blank" rel="noopener noreferrer">
+                                Lister Hill National Center for Biomedical Communications
+                            </a>
+                            <span class="hidden-xs">&bull;&nbsp;</span><br class="visible-xs">
+                            <a href="http://www.nlm.nih.gov/" target="_blank" rel="noopener noreferrer">
+                                U.S. National Library of Medicine
+                            </a>
+                            <span class="visible-xs">
+                                <a href="http://www.nih.gov/" target="_blank" rel="noopener noreferrer">
+                                    National Institute of Health 
+                                </a>
+                                &bull;&nbsp; 
+                                <a href="http://www.hhs.gov/" target="_blank" rel="noopener noreferrer">
+                                    Health and Human Services
+                                </a>
+                             </span> 
+                            <span class="hidden-xs hidden-sm">&bull;&nbsp;</span>
+                            <a href="https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/@38.9959549,-77.1010263,17z/data=!3m1!4b1!4m2!3m1!1s0x89b7c95e25765ddb:0x19156f88b27635b8" target="_blank" rel="noopener noreferrer">
+                                8600 Rockville Pike, Bethesda, MD 20894    
+                            </a>
+                                                       
+                            
+                        </div>
+                        <div class="visible-lg">
+                            <span><a href="licensing" target="_blank" rel="noopener noreferrer">Copyright</a></span>
+                            &bull;&nbsp;<span><a href="https://www.nlm.nih.gov/web_policies.html" target="_blank" rel="noopener noreferrer">NLM Web Policies</a></span>
+                            &bull;&nbsp;<span><a href="http://www.nlm.nih.gov/accessibility.html" target="_blank" rel="noopener noreferrer">Accessibility</a></span>
+                            &bull;&nbsp;<span><a href="http://www.nih.gov/icd/od/foia/index.htm" target="_blank" rel="noopener noreferrer">FOIA</a></span>
+                            &bull;&nbsp;<span><a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" target="_blank" rel="noopener noreferrer">HHS Vulnerability Disclosure</a></span>
+                            &bull;&nbsp;<span><a href="https://support.nlm.nih.gov/?from=https://www.nlm.nih.gov/" target="_blank" rel="noopener noreferrer">NLM Support Center</a></span>
+                            &bull;&nbsp;<span ><a href="/contactus" target="_self"><u>Contact Us</u> </a></span>
+                        </div>                        
+                    </div>
+                    <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1 col-footer footer-icon-usagov">                                          
+                        <div>
+                            <a href="https://www.usa.gov/" target="_blank" rel="noopener noreferrer"><img src="/resources/images/NLM_ftrtrns_USAGOV.png" alt="USA.GOV" height="50px"></a>
+                        </div>
+                    </div>                    
+                </div> 
+                <div class="hidden-lg footer-links">
+                    <span><a href="licensing" target="_blank" rel="noopener noreferrer">Copyright</a></span>
+                    &bull;&nbsp;<span><a href="https://www.nlm.nih.gov/web_policies.html" target="_blank" rel="noopener noreferrer">NLM Web Policies</a></span>
+                    &bull;&nbsp;<span><a href="http://www.nlm.nih.gov/accessibility.html" target="_blank" rel="noopener noreferrer">Accessibility</a></span>
+                    &bull;&nbsp;<span><a href="http://www.nih.gov/icd/od/foia/index.htm" target="_blank" rel="noopener noreferrer">FOIA</a></span>
+                    <span><a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" target="_blank" rel="noopener noreferrer">HHS Vulnerability Disclosure</a></span>
+                    &bull;&nbsp;<span><a href="https://support.nlm.nih.gov/?from=https://www.nlm.nih.gov/" target="_blank" rel="noopener noreferrer">NLM Support Center</a></span>
+                    &bull;&nbsp;<span><a href="/contactus" target="_self"><u>Contact Us</u> </a></span>
+                </div>
+            </div>
+        </div>-->
+            
+    
+            <div class="container-fluid">
+              <div class="container pt-5">
+                <div class="row mt-3">
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <p><a href="https://www.nlm.nih.gov/socialmedia/index.html" class="text-white" id="anch_65">Connect with NLM</a></p>
+                    <ul class="list-inline social_media">
+                      <li class="list-inline-item">
+                          <a title="External link: please review our privacy policy." href="https://twitter.com/NLM_NIH" id="anch_66">
+                              <img src="resources/images/Twitter_W.svg" class="img-fluid" alt="Twitter"></a></li>
+                      <li class="list-inline-item">
+                          <a title="External link: please review our privacy policy." href="https://www.facebook.com/nationallibraryofmedicine" id="anch_67">
+                              <img src="resources/images/Facebook_W.svg" class="img-fluid" alt="Facebook"></a></li>
+                      <a ></a>
+                      <li class="list-inline-item">
+                          <a title="External link: please review our privacy policy." href="https://www.youtube.com/user/NLMNIH" id="anch_68">
+                              <img src="resources/images/YouTube_W.svg" class="img-fluid" alt="You Tube"></a></li>
+                    </ul>
+                  </div>
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <p class="address_footer text-white"> National Library of Medicine <br>
+                      <a href="https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/@38.9959508,-77.101021,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb:0x19156f88b27635b8!8m2!3d38.9959508!4d-77.0988323" class="text-white" id="anch_69" title="External link: please review our privacy policy."> 8600 Rockville Pike <br>
+                      Bethesda, MD 20894 </a></p>
+                  </div>
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <p><a href="https://www.nlm.nih.gov/web_policies.html" class="text-white" id="anch_70"> Web Policies </a><br>
+                      <a href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office" class="text-white" id="anch_71"> FOIA </a><br>
+                      <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" class="text-white" id="anch_72">HHS Vulnerability Disclosure</a><br>
+                      <a href="https://www.nlm.nih.gov/web_policies.html#copyright" class="text-white" id="anch_72">Copyright</a></p>
+                  </div>
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <p><a class="supportLink text-white" href="https://support.nlm.nih.gov/support/create-case/?from=https://lhncbc.nlm.nih.gov/" id="anch_73"> NLM Support Center </a> <br>
+                      <a href="https://www.nlm.nih.gov/accessibility.html" class="text-white" id="anch_74"> Accessibility </a><br>
+                      <a href="https://www.nlm.nih.gov/careers/careers.html" class="text-white" id="anch_75"> Careers </a><br>
+                      <a href="/contactus" class="text-white" id="anch_75"> Contact Us </a></p>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-lg-12">
+                    <p class="mt-2 text-center text-white"> <a class="text-white" href="//www.nlm.nih.gov/" id="anch_76">NLM</a> | <a class="text-white" href="https://www.nih.gov/" id="anch_77">NIH</a> | <a class="text-white" href="https://www.hhs.gov/" id="anch_78">HHS</a> | <a class="text-white" href="https://www.usa.gov/" id="anch_79">USA.gov</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>    
+        </div>
+    </footer>
+<!--        </div>    -->
+        
+        <div id="docaptcha" style="visibility: hidden;">
+        </div>
+        <input type="hidden" id="recaptcha-token" />
+
+        <script src="../resources/js/lib/jquery-3.5.1.min.js"></script> 
+        <script src="../resources/js/lib/jquery-ui.min.js"></script>
+        <script src="../resources/js/lib/jquery-migrate-3.3.1.min.js"></script>
+        
+        <script src="../resources/frameworks/flexslider/jquery.flexslider-min.js"></script>
+        <script src="../resources/js/lib/angular.min.js"></script>
+        <script src="../resources/frameworks/flexslider/angular-flexslider.js"></script>
+        <script src="../resources/frameworks/organimagemap/organimagemap.js"></script>
+        <script src="../resources/js/lib/angular-route.min.js"></script>
+        <script src="../resources/js/lib/angular-sanitize.min.js"></script>
+        <script src="../resources/js/lib/angular-touch.min.js"></script>
+        <script src="../resources/frameworks/zoom/transition.js"></script>
+        <script src="../resources/frameworks/zoom/zoom.js"></script>
+        <script src="../resources/js/lib/bootstrap.min.js"></script>
+        <script src="../resources/frameworks/slick/slick.min.js"></script>
+        <script src="../resources/frameworks/slick/angular-slick.min.js"></script>
+        <script src="../resources/js/lib/ng-infinite-scroll.min.js"></script>
+        <script src="../resources/js/lib/angular-animate.min.js"></script>
+        <script src="../resources/js/lib/angular-material.min.js"></script>
+    
+        <script src="../resources/js/lib/angular-aria.min.js"></script>
+        <script src="../resources/js/lib/svg-assets-cache.js"></script>
+<!--        <script src="../resources/js/lib/q.js"></script>-->
+              
+        
+        <script src="../resources/frameworks/video-js-5.4.6/video.min.js"></script>
+      
+<!--       <script src="//vjs.zencdn.net/6.2.0/video.js"></script>-->
+        <script src="../resources/js/public/medpix.js"></script>
+        
+        <script src="../resources/js/lib/ng-flow-standalone.min.js"></script> 
+                               
+
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-59GQ6JK');</script>
+        <!-- End Google Tag Manager -->
+        
+        
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-78225582-1', 'auto');  
+            ga('create', 'UA-137948717-1', 'auto', 'nlmtracker');
+        </script>
+        
+            <script type="application/ld+json" id="google-structured-data">
+                {
+                    "@context": "http://schema.org",
+                    "@type": "Article",
+                    "url": "https://medpix.nlm.nih.gov/case?id=2c9eb738-b0a1-4240-8ca2-b482b494a8c2",
+                    "mainEntityOfPage": {
+                      "@type": "WebPage",
+                      "@id": "https://medpix.nlm.nih.gov/case?id=2c9eb738-b0a1-4240-8ca2-b482b494a8c2"
+                    },
+                    "author": "MS-4 USU Teaching File",
+                    "datePublished": "2003-12-11",
+                    "headline": "Axial Chest CT",
+                    "image": {
+                        "@type": "ImageObject",
+                        "url": "https://medpix.nlm.nih.govhttps://d168r5mdg5gtkq.cloudfront.net/medpix/img/thumb/synpic18321.jpg",
+                        "width": 100,          
+                        "height": 75                      
+                    },
+                    "publisher": {
+                      "@type": "Organization",
+                      "name": "MedPix",
+                      "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://cup.nlm.nih.gov/resources/images/medpix-logo.png",
+                        "width": 99,
+                        "height": 23
+                      }
+                    },
+                    "description": "CT-No PE/DVT.  No bone or liver mets.  Increase in mediastinal adenopathy in the aortopulmonary window and subcarinal region.  Evidence of right masectomy within the soft tissues. Overall progression of lung parenchymal disease."
+                }
+            </script>
+        
+    </body>        
+   
+</html>
+
+
+    <script type="text/javascript">var isLoggedIn = false;</script>
+
