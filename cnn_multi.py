@@ -1,10 +1,12 @@
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
+from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout, Input
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.callbacks import EarlyStopping
 import numpy as np
+
 import os
+import shutil
 
 # Define image dimensions and other parameters
 IMG_HEIGHT = 224
@@ -12,9 +14,9 @@ IMG_WIDTH = 224
 BATCH_SIZE = 32
 
 # Directory paths (replace with your dataset paths)
-train_dir = 'images_multi'
-val_dir = 'images_multi'
-test_dir = 'images_multi'
+train_dir = 'images_train'
+val_dir = 'images_val'
+test_dir = 'images_test'
 
 # Data preprocessing
 train_datagen = ImageDataGenerator(rescale=1./255,
@@ -40,7 +42,8 @@ val_generator = val_test_datagen.flow_from_directory(val_dir,
 
 # Build the CNN model
 model = Sequential([
-    Conv2D(32, (3, 3), activation='relu', input_shape=(IMG_HEIGHT, IMG_WIDTH, 3)),
+    Input((IMG_HEIGHT, IMG_WIDTH, 3)),
+    Conv2D(32, (3, 3), activation='relu'),
     MaxPooling2D(2, 2),
     Conv2D(64, (3, 3), activation='relu'),
     MaxPooling2D(2, 2),
@@ -68,7 +71,7 @@ history = model.fit(train_generator,
                     callbacks=[early_stopping])
 
 # Save the model
-model.save('xray_classifier.h5')
+model.save('xray_classifier.keras')
 
 # Evaluate the model on test data
 test_generator = val_test_datagen.flow_from_directory(test_dir,
@@ -85,15 +88,25 @@ def predict_xray_image(image_path):
     img_array = img_to_array(img) / 255.0
     img_array = np.expand_dims(img_array, axis=0)
     prediction = model.predict(img_array)
-    return prediction
-    # class_idx = np.argmax(prediction)
-    # class_labels = list(train_generator.class_indices.keys())
-    # return class_labels[class_idx]
+    #return prediction
+    class_idx = np.argmax(prediction)
+    class_labels = list(train_generator.class_indices.keys())
+    return class_labels[class_idx]
 
 # Example usage
+
 test_image_dir = "test"
 image_files = sorted(os.listdir(test_image_dir))
+result_dir = os.path.join(test_image_dir, 'results')
+if not os.path.isdir(result_dir):
+    os.makedirs(result_dir)
 for i, image_file in enumerate(image_files):
     image_path = os.path.join(test_image_dir, image_file)
-    predicted_class = predict_xray_image(image_path)
-    print(f"The predicted class for the {image_file} is: {predicted_class}")
+    if os.path.isdir(image_path) is not True:
+        predicted_class = predict_xray_image(image_path)
+        print(f"The predicted class for the {image_file} is: {predicted_class}")
+        result_path = os.path.join(result_dir, predicted_class)
+        if not os.path.isdir(result_path):
+            os.makedirs(result_path)
+        shutil.copy(image_path, os.path.join(result_path, image_file))
+   
